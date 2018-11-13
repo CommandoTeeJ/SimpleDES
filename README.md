@@ -1,3 +1,3 @@
 # SimpleDES
 A simple example of an encryption algorithm
-Created for a network security class (AKA academic purposes)
+Created for a network security class (academic purposes)
